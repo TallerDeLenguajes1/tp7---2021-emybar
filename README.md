@@ -16,7 +16,7 @@ directamente la clase en su proyecto
 Permite dividir funcionalidades útiles en módulos que pueden usar varias aplicaciones. También se pueden usar para cargar la funcionalidad no necesaria o no conocida al inicio de la aplicación.Una biblioteca de clases define los tipos y los métodos que se llaman desde una aplicación
 
 
-#d) como se agrega la referencia a una biblioteca de clase en su proyecto
+# d) como se agrega la referencia a una biblioteca de clase en su proyecto
 En un principio, el nuevo proyecto de aplicación de consola no tiene acceso a la biblioteca de clases. Para que pueda llamar a los métodos de la biblioteca de clases, cree una referencia de proyecto al proyecto de biblioteca de clases.
 
     En el Explorador de soluciones, haga clic con el botón derecho en el nodo Dependencias del proyecto ShowCase y seleccione Agregar referencia de proyecto.
